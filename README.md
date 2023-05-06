@@ -26,7 +26,7 @@ Neste desafio, foram aplicados os conhecimentos animação no CSS.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
-- Animações
+- Animações com keyframes
 
 ## 💻 Projeto
 Atividade feita no Stage 06 do curso Explorer da Rocketseat. Onde é feito uma página utilizando SPA.
