@@ -1,4 +1,4 @@
-<h1 align="center"> Stage 03 - Deafio das Toupeiras</h1>
+<h1 align="center"> Stage 03 - Desafio das Toupeiras</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
